@@ -1,0 +1,23 @@
+{
+	"Seti_SB_bright": true,
+	"Seti_blue_label": true,
+	"color_scheme": "Packages/Colorsublime - Themes/Into-the-Dark.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"LoremIpsum",
+		"Markdown",
+		"Vintage"
+	],
+	"theme": "Asphalt-blue.sublime-theme",
+	"theme_asphalt_show_dirty_tabs": true,
+	"theme_asphalt_status_bar_brighter": true
+}

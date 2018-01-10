@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"ayu",
+		"Better CoffeeScript",
+		"Color Highlighter",
+		"ColorHelper",
+		"Colorsublime",
+		"Craft-Twig",
+		"DocBlockr",
+		"Emmet",
+		"JSONLint",
+		"LoremIpsum",
+		"Markdown Extended",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Modific",
+		"Package Control",
+		"Pretty JSON",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"Siteleaf Liquid Syntax",
+		"Skins",
+		"Spotify",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Syntax Highlighting for Sass",
+		"TernJS",
+		"Text Pastry",
+		"Theme - Afterglow",
+		"Theme - Asphalt",
+		"Vuejs Complete Package",
+		"WordPress"
+	]
+}

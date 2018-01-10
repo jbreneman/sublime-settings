@@ -1,0 +1,42 @@
+[
+    { "keys": ["super+shift+l"],
+      "command": "insert_snippet",
+      "args": {
+        "contents": "console.log(${1:}$SELECTION);${0}"
+      }
+    },
+    { "keys": ["super+shift+i"],
+      "command": "insert_snippet",
+      "args": {
+        "contents": "console.info(${1:}$SELECTION);${0}"
+      }
+    },
+    { "keys": ["super+shift+d"],
+      "command": "insert_snippet",
+      "args": {
+        "contents": "console.log(\"derp\");${1:}${0}"
+      }
+    },
+    {
+      "keys": ["super+shift+/"],
+      "command": "insert_snippet",
+      "args": {
+        "contents": "{% comment %}${1:}$SELECTION{% endcomment %}${0}"
+      }
+    },
+    {
+      "keys": ["super+shift+="],
+      "command": "insert_snippet",
+      "args": {
+        "contents": "&:hover, &:focus, &:active {\n\t${1:}${0}\n}"
+      }
+    },
+    {
+      "keys": ["super+shift+-"],
+      "command": "insert_snippet",
+      "args": {
+        "contents": "&__${1:}${0} {\n\t\n}"
+      }
+    },
+
+]

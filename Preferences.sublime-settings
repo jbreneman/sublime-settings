@@ -1,0 +1,31 @@
+{
+	"Seti_SB_bright": true,
+	"Seti_blue_label": true,
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"fade_fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
+	"font_face": "Hack",
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"LoremIpsum",
+		"Markdown",
+		"SublimeLinter",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"skin": "ayu/ayu mirage",
+	"theme": "ayu-mirage.sublime-theme",
+	"theme_asphalt_show_dirty_tabs": true,
+	"theme_asphalt_status_bar_brighter": true,
+	"trim_trailing_white_space_on_save": true
+}

@@ -1,0 +1,39 @@
+{
+	// Custom snippets definitions, as per https://github.com/emmetio/emmet/blob/master/snippets.json
+	"snippets": {
+		"css": {
+			"snippets": {
+				"bgc": "background-color:|;",
+				"c": "color:|;",
+				"d:g": "display: grid;",
+				"fi": "fill:|;",
+				"gtc": "grid-template-columns:|;",
+				"gtr": "grid-template-rows:|;",
+				"gt": "grid-template:|;",
+				"gcg": "grid-column-gap:${1:1rem};",
+				"gcs": "grid-column-span:|;",
+				"grg": "grid-row-gap:${1:1rem};",
+				"grs": "grid-row-span:|;",
+				"gg": "grid-gap:${1:1rem};",
+				"gac": "grid-auto-columns:|;",
+				"gar": "grid-auto-rows:|;",
+				"gaf": "grid-auto-flow:|;",
+				"g": "grid:|;",
+				"m:0a": "margin: 0 auto;",
+				"pe": "pointer-events:|;",
+				"pe:au": "pointer-events: auto;",
+				"pe:a": "pointer-events: all;",
+				"pe:n": "pointer-events: none;",
+				"st": "stroke:|;",
+				"stw": "stroke-width:|;",
+				"stda": "stroke-dasharray:|;",
+				"stdo": "stroke-dashoffset:|;",
+				"wc": "will-change:|;",
+				"wovs": "-webkit-overflow-scrolling:|;",
+				"wovs:t": "-webkit-overflow-scrolling: touch;",
+				"wovs:a": "-webkit-overflow-scrolling: auto;",
+				"wthc": "-webkit-tap-highlight-color: ${1:rgba(0, 0, 0, 0)};"
+			}
+		}
+	}
+}
